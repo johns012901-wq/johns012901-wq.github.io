@@ -4,7 +4,7 @@
   "Currently": "Mechanical Engineering Student",
   "Headshot": "Headshot.jpeg",
   "Thumbnail": "Headshot.jpeg",
-  "AboutText": "Hi, I am Emily Johns. I am a passionate Mechanical Engineering student with a keen interest in prodect design and manufacturing. Currently, I am pursuing my undergraduate degree at Seattle Pacific University.\nI am dedicated to expanding my knowledge and skills in various areas of Engineering, with a particular focus in automotive industries.<br><br>I enjoy tackling challenging projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities, including offroading, target shooting, and spending time in nature.\nI believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Emily Johns. I am a passionate Mechanical Engineering student with a keen interest in product design and manufacturing. Currently, I am pursuing my undergraduate degree at Seattle Pacific University.\nI am dedicated to expanding my knowledge and skills in various areas of Engineering, with a particular focus in automotive industries.<br><br>I enjoy tackling challenging projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities, including off-roading, target shooting, and spending time in nature.\nI believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
   "EMail": "johnse19@spu.edu",
@@ -14,35 +14,35 @@
   "GitHub": ""
 },
 "Experience": {
-  "ExperienceText": "I am senior at Seattle Pacific University and transferred here 2 years ago from Michigan to finish up my BS Mechanical Engineering.<br><br>My work history is broad but I have many transferable skills moving into the Engineering world.",
+  "ExperienceText": "I am a senior at Seattle Pacific University and transferred here 2 years ago from Michigan to complete my BS in Mechanical Engineering.<br><br>My work history is broad but I have many transferable skills moving into the Engineering world.",
   "School": "Seattle Pacific University",
   "Major": "Mechanical Engineering",
   "Graduation": "June 2027",
   "EducationText": "I am planning to minor in Physics and Appropriate and Sustainable Engineering.<br><br>My current GPA is 3.93<br><br>I earned two associates in May of 2022; including one in Science and another in Engineering.",
   "Employment": "Special Medical Staffing",
   "Role": "Certified Pharmacy Technician",
-  "EmploymentText": "My responsibilities include supporting the pharmacists, managing patient information, answering phines, and performing non-sterile compunding of oral medications.",
+  "EmploymentText": "My responsibilities include supporting the pharmacists, managing patient information, answering phones, and performing non-sterile compounding of oral medications.",
   "Skills": ["SolidWorks(CSWA Certified", " MATLAB", " 3D printing, assembly & prototyping", " Materials testing & laboratory procedures"," Experimental data collection & analysis"],
   "SkillsText": "My transferable strengths include: accuracy in high-volume work, safety and quality control, technical procedures, documentation, team collaboration, and attention to detail.",
   "Resume": "Resume.pdf"  
 },
 "Project1": {
     "Title": "Chill Pill Dispenser",
-    "Desc": "I worked on the Chill Pill Dispenser, an automated medication management system intended to help users follow routine medication schedules.<br><br>My primary responsibility was designing and matufacturing the pill canisters.",
+    "Desc": "I worked on the Chill Pill Dispenser, an automated medication management system intended to help users follow routine medication schedules.<br><br>My primary responsibility was designing and manufacturing the pill canisters.",
     "GitHubRepo": "",
     "MainImage": "Picture4.jpg",
     "DetailImages": ["chill pill 1.png","chill pill 2.png","chill pill 4.png","chill pill 5.png","Picture1.jpg","Picture2.jpg","Picture3.jpg"]
   },
   "Project2": {
     "Title": "Cone Drop Experiment",
-    "Desc": "Investigate the realtionship between terminal velocity of falling paper cones and the number of cones dropped and evaluate wether the results were consistent with the quadratic drag model.<br><br>The experimental data was gathered as a group. The analysis of the data was done independently.",
+    "Desc": "Investigate the relationship between terminal velocity of falling paper cones and the number of cones dropped and evaluate whether the results were consistent with the quadratic drag model.<br><br>The experimental data was gathered as a group. The analysis of the data was done independently.",
     "GitHubRepo": "",
     "MainImage": "Picture6.png",
     "DetailImages": ["cone drop 1.png","cone drop 2.png"]
   },
   "Project3": {
     "Title": "Research Proposal for Hip Replacement Devices",
-    "Desc": "Could graphene coatings on bearing surfaces reduce frcition and wear enough to extend implant life?<br><br>I propose exploring wether coating both mating bearing surfaces could help approach a 40 year service life goal.",
+    "Desc": "Could graphene coatings on bearing surfaces reduce friction and wear enough to extend implant life?<br><br>I propose exploring whether coating both mating bearing surfaces could help approach a 40 year service life goal.",
     "GitHubRepo": "",
     "MainImage": "Picture5.png",
     "DetailImages": ["hip 1.png","hip 2.png"]
