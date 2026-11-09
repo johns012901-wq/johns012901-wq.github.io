@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "Chill Pill Dispenser",
-    "Desc": "I worked on the Chill Pill Dispenser, an automated medication-management system intended to help users follow routine medication schedules. Our team's design goals included accurate dispensing, controlled access, reliability, autonomy, user notification, and ease of use. We designed it with elderly users and people with Alzheimer's disease in mind.
+    "Desc": "I worked on the Chill Pill Dispenser, an automated medication-management system intended to help users follow routine medication schedules.
 .<br><br>My primary responsibility was designing and manufacturing the pill canisters. I developed the components from scratch in SolidWorks and translated the designs into physical parts.
 ",
     "GitHubRepo": "",
