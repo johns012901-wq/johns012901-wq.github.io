@@ -2,8 +2,8 @@
 "About": {
   "Name": "Emily J Johns",
   "Currently": "Mechanical Engineering Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
+  "Headshot": "Headshot.jpeg",
+  "Thumbnail": "Headshot.jpeg",
   "AboutText": "Hi, I am Emily Johns. I am a passionate Mechanical Engineering student with a keen interest in prodect design and manufacturing. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of Engineering, with a particular focus in automotive industries.<br><br>I enjoy tackling challenging projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities, including offroading, target shooting, and spending time in nature. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
@@ -24,7 +24,7 @@
   "EmploymentText": "My responsibilities include supporting the pharmacists, managing patient information, answering phines, and performing non-sterile compunding of oral medications.",
   "Skills": ["SolidWorks(CSWA Certified", " MATLAB", " 3D printing, assembly & prototyping", " Materials testing & laboratory procedures"," Experimental data collection & analysis"],
   "SkillsText": "My transferable strengths include: accuracy in high-volume work, safety and quality control, technical procedures, documentation, team collaboration, and attention to detail.",
-  "Resume": "student-resume.pdf"  
+  "Resume": "Resume.docx"  
 },
 "Project1": {
     "Title": "Chill Pill Dispenser",
