@@ -28,21 +28,27 @@
 },
 "Project1": {
     "Title": "Chill Pill Dispenser",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Desc": "I worked on the Chill Pill Dispenser, an automated medication-management system intended to help users follow routine medication schedules. Our team's design goals included accurate dispensing, controlled access, reliability, autonomy, user notification, and ease of use. We designed it with elderly users and people with Alzheimer's disease in mind.
+.<br><br>My primary responsibility was designing and manufacturing the pill canisters. I developed the components from scratch in SolidWorks and translated the designs into physical parts.
+",
+    "GitHubRepo": "",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Cone Drop Experiment",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Desc": "Investigate the relationship between the terminal velocity of falling paper cones and the number of cones dropped and evaluate whether the results were consistent with a quadratic drag model.
+.<br><br>The experimental data were gathered collaboratively as a group. I independently completed the data analysis, including calculations, graphing, uncertainty analysis, and interpretation.
+",
+    "GitHubRepo": "",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Research Proposal for Hip Replacement Devices",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "Could graphene coatings on the two opposing ceramic bearing surfaces reduce friction and wear enough to extend implant life?
+<br><br>I propose exploring whether coating both mating bearing surfaces could help approach a 40-year service-life goal. This is a research target, not a demonstrated result.
+",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
