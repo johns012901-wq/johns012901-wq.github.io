@@ -35,9 +35,7 @@
   },
   "Project2": {
     "Title": "Cone Drop Experiment",
-    "Desc": "Investigate the relationship between the terminal velocity of falling paper cones and the number of cones dropped and evaluate whether the results were consistent with a quadratic drag model.
-.<br><br>The experimental data were gathered collaboratively as a group. I independently completed the data analysis, including calculations, graphing, uncertainty analysis, and interpretation.
-",
+    "Desc": "Investigate the realtionship between terminal velocity of falling paper cones and the number of cones dropped and evaluate wether the results were consistent with the quadratic drag model.<br><br>The experimental data was gathered as a group. The analysis of the data was done independently.",
     "GitHubRepo": "",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
