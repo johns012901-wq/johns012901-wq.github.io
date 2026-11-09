@@ -43,8 +43,7 @@
   "Project3": {
     "Title": "Research Proposal for Hip Replacement Devices",
     "Desc": "Could graphene coatings on the two opposing ceramic bearing surfaces reduce friction and wear enough to extend implant life?
-<br><br>I propose exploring whether coating both mating bearing surfaces could help approach a 40-year service-life goal. This is a research target, not a demonstrated result.
-",
+<br><br>I propose exploring wether coating both mating bearing surfaces could help approach a 40 year service life goal. This is a research target, not a demonstrated result.", 
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
