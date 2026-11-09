@@ -42,7 +42,7 @@
   },
   "Project3": {
     "Title": "Research Proposal for Hip Replacement Devices",
-    "Desc": "Could graphine coatings on bearing surfaces reduce frcition and wear enough to extend implant life?<br><br>I propose exploring wether coating both mating bearing surfaces could help approach a 40 year service life goal.", 
+    "Desc": "Could graphene coatings on bearing surfaces reduce frcition and wear enough to extend implant life?<br><br>I propose exploring wether coating both mating bearing surfaces could help approach a 40 year service life goal.",
     "GitHubRepo": "",
     "MainImage": "Picture5.png",
     "DetailImages": ["hip 1.png","hip 2.png"]
